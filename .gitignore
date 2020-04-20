@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 sendgrid.env
+tempCodeRunnerFile.py
+.vscode/launch.json
+.vscode/settings.json
